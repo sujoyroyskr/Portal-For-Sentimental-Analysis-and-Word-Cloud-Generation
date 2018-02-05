@@ -11,3 +11,5 @@ Refer To This Link For More Info.... -- https://www.lexalytics.com/technology/se
 
 # What Is Word Cloud ??
 Word Cloud is an image composed of words used in a particular text or subject, in which the size of each word indicates its frequency or importance. The clouds give greater prominence to words that appear more frequently in the source text. You can tweak your clouds with different fonts, layouts, and color schemes. 
+
+# $$$$$$$$$$$$$ EveryOne Is welcome To contribute $$$$$$$$$$$$$$$
